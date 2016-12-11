@@ -1,6 +1,7 @@
 body {
-  background-color: rgb(204,204,204);
+  background-color: rgb(44,44,44);
 }
 p {
-  color: rgb(204,0,0);
+  width: 600px;
+  color: rgb(204,200,100);
 }
