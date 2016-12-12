@@ -1,7 +1,10 @@
 /* CSS Document */
 body {
-  background-color: rgb(44,44,44);
+  background-color: rgb(204,204,204);
 }
 p {
-  color: rgb(204,200,100);
+  color: rgb(204,0,0);
+}
+h1 {
+  color: rgb(110,110,200);
 }
